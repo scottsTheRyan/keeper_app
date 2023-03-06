@@ -60,11 +60,13 @@ footer p {
   float: right;
   margin-right: 10px;
   color: #f5ba13;
+  font-size: 0.5em;
   border: none;
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 25px;
   cursor: pointer;
   outline: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 form {
